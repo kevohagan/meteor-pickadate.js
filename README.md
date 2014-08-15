@@ -26,8 +26,8 @@ But the general idea is that you want to import the Pickadate.js Less files into
 ```
 // Import the base less files
 @import "../../packages/pickadate.js/less/base.import.less";
-@import "../../packages/pickadate.js/less/base.date.less";
-@import "../../packages/pickadate.js/less/base.time.less";
+@import "../../packages/pickadate.js/less/base.date.import.less";
+@import "../../packages/pickadate.js/less/base.time.import.less";
 
 // Choose a theme
 @import "../../packages/pickadate.js/less/default.import.less";
