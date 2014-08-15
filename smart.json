@@ -1,0 +1,8 @@
+{
+  "name": "pickadate",
+  "description": "A Meteor.js wrapper for Pickadate.js (http://amsul.ca/pickadate.js/) The mobile-friendly, responsive, and lightweight jQuery date & time input picker.",
+  "homepage": "https://github.com/nickw/meteor-pickadate.js",
+  "author": "Nick Wientge",
+  "version": "1.0.0",
+  "git": "https://github.com/nickw/meteor-pickadate.js.git"
+}
